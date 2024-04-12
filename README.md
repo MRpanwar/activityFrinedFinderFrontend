@@ -1,4 +1,4 @@
-# Activity Friend Finder
+# Activity Friend Finder Frontend
 
 ## Project setup
 
